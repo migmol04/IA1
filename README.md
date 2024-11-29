@@ -66,4 +66,4 @@ pip install numpy matplotlib gym
 This project was developed in collaboration by:
 
 - **Miguel Ángel Molina de la Rosa**
-- **[Carmen Miguel Spínola]([https://github.com/username](https://github.com/CarmenMS03))**
+- **[Carmen Miguel Spinola](https://github.com/CarmenMS03)**
